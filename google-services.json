@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "313872024895",
+    "project_id": "searchit-5b610",
+    "storage_bucket": "searchit-5b610.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313872024895:android:195f6564942e5d42ecff8a",
+        "android_client_info": {
+          "package_name": "com.kush.searchit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313872024895-sf0mnf45j95k04t8ci4ft39jva2kchtd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx_tyOYMK0FCzGrMEQkpS1j7eOOWvNkfE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313872024895-sf0mnf45j95k04t8ci4ft39jva2kchtd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
